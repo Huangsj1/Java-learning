@@ -1,0 +1,17 @@
+{
+  "showLineNumber": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "attachment",
+  "showInlineTitle": false,
+  "strictLineBreaks": true,
+  "autoPairMarkdown": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

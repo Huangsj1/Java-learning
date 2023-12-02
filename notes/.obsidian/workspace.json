@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "1f999deb19c1bb35",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c0495e7323a1366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6efd7788b561355c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 基础/8.反射 & 动态代理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c00b6ac800f76de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 基础/0.IDEA & 项目.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "148e774c4d3aa49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 基础/4.异常 & File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f29d4b28fbff98fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 基础/3.常用API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df61b7c419054181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 基础/5.IO流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "648293cfad7d93c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 基础/6.多线程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bcf306a527faaf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 基础/7.网络编程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b4b04e5aac920e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 基础/8.反射 & 动态代理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f7490213a826f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "1509c210556ac68b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09a97947798abb09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "055f0b6a9c1f46ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#提示",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bab666ac97e7f12",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "25be79ae87455bd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "071c720118bdfa90",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a2a46e252de0f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f45185ae1b036942",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java 基础/8.反射 & 动态代理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4627f4c2c0b7e188",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java 基础/8.反射 & 动态代理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8b7854593f04d3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fec4baef3199b3fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java 基础/8.反射 & 动态代理.md"
+              }
+            }
+          },
+          {
+            "id": "1734400387ea519b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "d4e8f6b263138bf5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6efd7788b561355c",
+  "lastOpenFiles": [
+    "Java 基础/7.网络编程.md",
+    "Java 基础/6.多线程.md",
+    "Java 基础/5.IO流.md",
+    "Java 基础/4.异常 & File.md",
+    "Java 基础/8.反射 & 动态代理.md",
+    "Java 基础/3.常用API.md",
+    "Java 基础/2. 面向对象.md",
+    "Java 基础/1. 基础语法.md",
+    "Java 基础/0.IDEA & 项目.md",
+    "attachment/2ce52b0039eeba15507c4884363e2b6.jpg",
+    "attachment/dc4d509224dbeca085cbf47437d9d70.jpg",
+    "attachment/bb1762d1786ece8d58a05e7b284afa6.jpg",
+    "attachment/2ae351fc001377a602f304d57b3d87e.jpg",
+    "attachment/4990abfadd44cc00c6f8184bbaf5665.jpg",
+    "attachment/a5a8cde33aa784ce912ded182c6fa1d.jpg",
+    "attachment/82daac1e9ab684053bba3cfe792a9d3.jpg",
+    "attachment/4805f9140691875d538ef480ea2a210.jpg",
+    "attachment/8cd729fceebc71ecc7be648ab9a260e.jpg",
+    "attachment/caabdb13fce7d37243abf7542a55587.jpg",
+    "Java 基础",
+    "attachment",
+    "计算机网络/note/第五章 运输层.md",
+    "计算机网络/note/第六章 应用层.md",
+    "计算机网络/note/第四章 网络层.md",
+    "计算机网络/note/第三章 数据链路层.md",
+    "计算机网络/note/第二章 物理层.md",
+    "计算机网络/note/第一章 概述.md",
+    "00 Inbox/Pasted image 20231121094623.png.md",
+    "计算机网络/note",
+    "算法设计/hw2.md",
+    "数据库/note/第九章 关系查询处理和查询优化.md",
+    "数据库/note/第十章 数据库恢复技术.md",
+    "数据库/note/第十一章 并发控制.md",
+    "数据库/note/第八章 数据库编程.md",
+    "数据库/note/第七章 数据库设计.md",
+    "数据库/note/第二章 关系数据库.md",
+    "数据库/note/第三章 关系数据库标准语言SQL.md",
+    "数据库/note/第四章 数据库安全性.md",
+    "数据库/note/第五章 数据库完整性.md",
+    "体系结构",
+    "数据库/note",
+    "计算机网络",
+    "数据库",
+    "算法设计",
+    "分布式系统/hw/21307038-黄世杰-作业1.pdf",
+    "分布式系统/hw",
+    "未命名.canvas"
+  ]
+}
