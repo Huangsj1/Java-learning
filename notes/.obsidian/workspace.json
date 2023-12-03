@@ -4,106 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "7c0495e7323a1366",
+        "id": "975dbac94a0f0986",
         "type": "tabs",
         "children": [
           {
-            "id": "6efd7788b561355c",
+            "id": "0dc17b44b122a2eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 基础/8.反射 & 动态代理.md",
+                "file": "JavaWeb/前端开发/HTML/2.表格列表.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4c00b6ac800f76de",
+            "id": "d403ebd83b33ad63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 基础/0.IDEA & 项目.md",
+                "file": "JavaWeb/前端开发/JS/1.JS基础部分.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "148e774c4d3aa49b",
+            "id": "3c5e4ebd323351f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 基础/4.异常 & File.md",
+                "file": "JavaWeb/前端开发/JS/2.Ajax.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f29d4b28fbff98fe",
+            "id": "2e9fe372ec65899c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 基础/3.常用API.md",
+                "file": "JavaWeb/前端开发/JS/Vue/Vue基础部分.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "df61b7c419054181",
+            "id": "234d021919124034",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 基础/5.IO流.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "648293cfad7d93c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java 基础/6.多线程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bcf306a527faaf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java 基础/7.网络编程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b4b04e5aac920e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java 基础/8.反射 & 动态代理.md",
+                "file": "JavaWeb/前端开发/JS/Vue/Vue项目搭建.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 341.5,
+    "collapsed": true
   },
   "right": {
     "id": "071c720118bdfa90",
@@ -177,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java 基础/8.反射 & 动态代理.md",
+                "file": "JavaWeb/前端开发/JS/Vue/Vue项目搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java 基础/8.反射 & 动态代理.md",
+                "file": "JavaWeb/前端开发/JS/Vue/Vue项目搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java 基础/8.反射 & 动态代理.md"
+                "file": "JavaWeb/前端开发/JS/Vue/Vue项目搭建.md"
               }
             }
           },
@@ -260,54 +226,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6efd7788b561355c",
+  "active": "234d021919124034",
   "lastOpenFiles": [
+    "JavaWeb/前端开发/JS/Vue/Vue基础部分.md",
+    "attachment/445897b867b4e616ca15d33484256cc.jpg",
+    "JavaWeb/前端开发/JS/Vue/Vue项目搭建.md",
+    "attachment/f317b61543dd560ec6ee6bb1935a432.jpg",
+    "attachment/a08a702c1b5868285ae52d108fddbc4.jpg",
+    "JavaWeb/前端开发/JS/Vue/组件库Element.md",
+    "JavaWeb/前端开发/JS/1.JS基础部分.md",
+    "JavaWeb/前端开发/JS/2.Ajax.md",
+    "attachment/4d7dd604c642fea7319b091f5e1d12f.jpg",
+    "attachment/25228276be81db1d0da02ef5b783f70.jpg",
+    "attachment/a554f65fbef80fe8fcf9b2ee431dd70.jpg",
+    "JavaWeb/前端开发/JS/Vue",
+    "JavaWeb/前端开发/HTML/2.表格列表.md",
+    "JavaWeb/前端开发/HTML/1.基本标签.md",
+    "Java 基础/1. 基础语法.md",
+    "Java 基础/2. 面向对象.md",
+    "JavaWeb/前端开发/JS",
+    "JavaWeb/前端开发/CSS/Ⅱ.品优购案例.md",
+    "JavaWeb/前端开发/CSS/Ⅰ.学成在线案例.md",
+    "JavaWeb/前端开发/CSS/5.THML5新样式-CSS3新样式.md",
+    "attachment/Pasted image 20230530101948.png",
+    "attachment/Pasted image 20230530145200.png",
+    "JavaWeb/前端开发/CSS/4.精灵图-字体图标-三角绘制-其他样式与技巧.md",
+    "attachment/Pasted image 20230529221123.png",
+    "attachment/Pasted image 20230529220920.png",
+    "JavaWeb/前端开发/CSS/3.三大特性-盒子-浮动-定位-隐藏.md",
+    "JavaWeb/前端开发/CSS/2.复合选择器-元素类型-背景.md",
+    "JavaWeb/前端开发/CSS/1.基础选择器-字体-文本.md",
+    "JavaWeb/前端开发/HTML",
+    "JavaWeb/前端开发/CSS",
+    "JavaWeb/后端开发",
+    "JavaWeb/前端开发",
     "Java 基础/7.网络编程.md",
+    "JavaWeb",
+    "Java 基础/8.反射 & 动态代理.md",
     "Java 基础/6.多线程.md",
     "Java 基础/5.IO流.md",
     "Java 基础/4.异常 & File.md",
-    "Java 基础/8.反射 & 动态代理.md",
     "Java 基础/3.常用API.md",
-    "Java 基础/2. 面向对象.md",
-    "Java 基础/1. 基础语法.md",
     "Java 基础/0.IDEA & 项目.md",
-    "attachment/2ce52b0039eeba15507c4884363e2b6.jpg",
-    "attachment/dc4d509224dbeca085cbf47437d9d70.jpg",
-    "attachment/bb1762d1786ece8d58a05e7b284afa6.jpg",
-    "attachment/2ae351fc001377a602f304d57b3d87e.jpg",
-    "attachment/4990abfadd44cc00c6f8184bbaf5665.jpg",
-    "attachment/a5a8cde33aa784ce912ded182c6fa1d.jpg",
-    "attachment/82daac1e9ab684053bba3cfe792a9d3.jpg",
-    "attachment/4805f9140691875d538ef480ea2a210.jpg",
-    "attachment/8cd729fceebc71ecc7be648ab9a260e.jpg",
-    "attachment/caabdb13fce7d37243abf7542a55587.jpg",
     "Java 基础",
     "attachment",
     "计算机网络/note/第五章 运输层.md",
     "计算机网络/note/第六章 应用层.md",
-    "计算机网络/note/第四章 网络层.md",
-    "计算机网络/note/第三章 数据链路层.md",
-    "计算机网络/note/第二章 物理层.md",
-    "计算机网络/note/第一章 概述.md",
-    "00 Inbox/Pasted image 20231121094623.png.md",
     "计算机网络/note",
-    "算法设计/hw2.md",
-    "数据库/note/第九章 关系查询处理和查询优化.md",
-    "数据库/note/第十章 数据库恢复技术.md",
-    "数据库/note/第十一章 并发控制.md",
-    "数据库/note/第八章 数据库编程.md",
-    "数据库/note/第七章 数据库设计.md",
-    "数据库/note/第二章 关系数据库.md",
-    "数据库/note/第三章 关系数据库标准语言SQL.md",
-    "数据库/note/第四章 数据库安全性.md",
-    "数据库/note/第五章 数据库完整性.md",
-    "体系结构",
-    "数据库/note",
-    "计算机网络",
-    "数据库",
-    "算法设计",
-    "分布式系统/hw/21307038-黄世杰-作业1.pdf",
-    "分布式系统/hw",
     "未命名.canvas"
   ]
 }
