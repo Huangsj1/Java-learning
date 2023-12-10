@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.itheima.mapper.UserMapper">
+<!--    定义复用代码-->
+    <sql id="commonSelect">
+        select * from tb_user
+    </sql>
+
+<!--    <select id="list" resultType="com.itheima.pojo.User">-->
+<!--        select * from tb_user-->
+<!--    </select>-->
+
+<!--    <if>标签使用-->
+    <select id="list2" resultType="com.itheima.pojo.User">
+        select * from tb_user
+        <where>
+            <if test="username != null">
+                username like concat(#{username}, '%')
+            </if>
+            <if test="gender != null">
+                and gender = #{gender}
+            </if>
+        </where>
+    </select>
+
+<!--    <foreach>标签使用-->
+    <select id="list3" resultType="com.itheima.pojo.User">
+        select * from tb_user
+        where id in
+        <!--
+            collection：集合遍历的名字
+            item：每个元素的名字，可任取
+            separator：分隔符
+            open：起始字符串
+            close：结尾字符串
+        -->
+        <foreach collection="ids" item="i" separator="," open="(" close=")">
+            #{i}
+        </foreach>
+    </select>
+
+    <select id="list4" resultType="com.itheima.pojo.User">
+        <!-- 使用复用代码 -->
+        <include refid="commonSelect"></include>
+    </select>
+</mapper>
