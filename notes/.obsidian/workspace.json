@@ -4,76 +4,88 @@
     "type": "split",
     "children": [
       {
-        "id": "975dbac94a0f0986",
+        "id": "02b112c5ecfd823d",
         "type": "tabs",
         "children": [
           {
-            "id": "bbe257de562d7130",
+            "id": "31ab1f4200d3cfc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaWeb/后端开发/MyBatis简化JDBC.md",
+                "file": "SSM/Maven/一、分模块开发与设计.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2150302becf3ee13",
+            "id": "36a13d2599966142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaWeb/后端开发/事务管理.md",
+                "file": "SSM/SpringBoot/一、简介.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24490b615c7d78c5",
+            "id": "31b79afe66d46c5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaWeb/后端开发/案例1.员工部门管理系统.md",
+                "file": "SSM/SpringBoot/二、配置文件.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea8f6845f1d80415",
+            "id": "fc2b07720004182b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaWeb/后端开发/SpringBootWeb开发.md",
+                "file": "SSM/SpringBoot/三、整合第三方技术.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "65e2917bf69a8f85",
+            "id": "5a66e33315fc2d4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaWeb/后端开发/模块的复制.md",
+                "file": "SSM/MyBatisPlus/一、简介.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8b28b6bc242af161",
+            "id": "4f9bc3fd0057a5a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaWeb/后端开发/Maven管理项目.md",
+                "file": "SSM/MyBatisPlus/二、增删查改操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82d548e0fa5df325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSM/Maven/一、分模块开发与设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaWeb/后端开发/Maven管理项目.md",
+                "file": "SSM/MyBatisPlus/二、增删查改操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaWeb/后端开发/Maven管理项目.md",
+                "file": "SSM/MyBatisPlus/二、增删查改操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaWeb/后端开发/Maven管理项目.md"
+                "file": "SSM/MyBatisPlus/二、增删查改操作.md"
               }
             }
           },
@@ -204,7 +216,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -237,53 +251,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b28b6bc242af161",
+  "active": "4f9bc3fd0057a5a8",
   "lastOpenFiles": [
+    "SSM/MyBatisPlus/一、简介.md",
+    "SSM/MyBatisPlus/二、增删查改操作.md",
+    "attachment/Pasted image 20240117163759.png",
+    "attachment/Pasted image 20240117163746.png",
+    "attachment/Pasted image 20240117163736.png",
+    "attachment/Pasted image 20240117163730.png",
+    "attachment/Pasted image 20240117162715.png",
+    "attachment/500d0308e173da65dfbc4632980bf2c.jpg",
+    "attachment/Pasted image 20240117162650.png",
+    "attachment/Pasted image 20240117162642.png",
+    "attachment/Pasted image 20240117162628.png",
+    "attachment/d0c15e80d616712dac6bdc32344bed5.jpg",
     "JavaWeb/后端开发/MyBatis简化JDBC.md",
-    "JavaWeb/后端开发/AOP面向切面编程.md",
-    "JavaWeb/后端开发/案例1.员工部门管理系统.md",
+    "SSM/SpringBoot/三、整合第三方技术.md",
+    "SSM/MyBatisPlus",
+    "SSM/SpringBoot/二、配置文件.md",
+    "SSM/SpringBoot/一、简介.md",
+    "SSM/Maven/一、分模块开发与设计.md",
+    "SSM/SpringBoot",
+    "SSM/SpringMVC/三、拦截器.md",
+    "SSM/SpringMVC/二、异常处理.md",
     "JavaWeb/后端开发/Maven高级.md",
-    "attachment/25ecf5623ad85862badbdb8ad95e47f.jpg",
-    "attachment/af103c25091a862ed9083d872802105.jpg",
-    "attachment/afd612144a24217ca33e25433a53c28.jpg",
-    "attachment/2cf2e7e49970696d722b49b17533770.jpg",
-    "attachment/Pasted image 20231210162721.png",
-    "attachment/0acb4688a0a8c587bcf2351ad4c9db7.jpg",
-    "attachment/a391b07a383b14acb7ff7e440ab8d54.jpg",
-    "attachment/Pasted image 20231210090255.png",
-    "attachment/Pasted image 20231210085326.png",
-    "attachment/Pasted image 20231210085030.png",
-    "JavaWeb/后端开发/模块的复制.md",
-    "JavaWeb/后端开发/SpringBootWeb开发.md",
-    "JavaWeb/后端开发/事务管理.md",
-    "Java 基础/8.反射 & 动态代理.md",
-    "JavaWeb/后端开发/HTTP协议.md",
-    "Java 基础/0.IDEA & 项目.md",
     "JavaWeb/后端开发/Maven管理项目.md",
-    "JavaWeb/后端开发/MySQL数据库语句.md",
-    "JavaWeb/后端开发/postman请求响应.md",
+    "SSM/Maven",
+    "JavaWeb/后端开发/案例1.员工部门管理系统.md",
     "JavaWeb/后端开发/Tomcat服务器.md",
-    "JavaWeb/前端开发/JS/Vue/Vue项目搭建.md",
-    "JavaWeb/前端开发/JS/1.JS基础部分.md",
-    "JavaWeb/前端开发/JS/Vue/Vue基础部分.md",
-    "JavaWeb/前端开发/JS/Vue/组件库Element.md",
-    "JavaWeb/前端开发/JS/2.Ajax.md",
+    "JavaWeb/后端开发/SpringBootWeb开发.md",
+    "JavaWeb/后端开发/postman请求响应.md",
+    "JavaWeb/后端开发/MySQL数据库语句.md",
+    "JavaWeb/后端开发/HTTP协议.md",
+    "JavaWeb/后端开发/AOP面向切面编程.md",
+    "JavaWeb/后端开发/事务管理.md",
+    "JavaWeb/后端开发/模块的复制.md",
+    "SSM/Spring/二、AOP面向切面编程.md",
+    "SSM/SpringMVC/一、请求响应与REST风格.md",
+    "SSM/Spring/三、事务.md",
+    "SSM/Spring/一、核心容器.md",
+    "SSM/SpringMVC",
+    "SSM/Spring/Spring 学习路线.md",
+    "Java 基础/6.多线程.md",
+    "SSM/Spring",
+    "SSM",
     "JavaWeb/前端开发/JS/Vue",
-    "JavaWeb/前端开发/HTML/2.表格列表.md",
-    "JavaWeb/前端开发/HTML/1.基本标签.md",
-    "Java 基础/1. 基础语法.md",
-    "Java 基础/2. 面向对象.md",
     "JavaWeb/前端开发/JS",
-    "JavaWeb/前端开发/CSS/Ⅱ.品优购案例.md",
-    "JavaWeb/前端开发/CSS/Ⅰ.学成在线案例.md",
     "JavaWeb/前端开发/HTML",
     "JavaWeb/前端开发/CSS",
-    "JavaWeb/后端开发",
-    "JavaWeb/前端开发",
-    "JavaWeb",
-    "Java 基础",
-    "attachment",
-    "计算机网络/note",
     "未命名.canvas"
   ]
 }
