@@ -21,9 +21,9 @@ mybatis:
 aliyun:
   oss:
     endpoint: https://oss-cn-guangzhou.aliyuncs.com
-    accessKeyId: LTAI5tJR9RMrPdqXeeoZvnhi
-    accessKeySecret: cLqtgyICBUTvIzDDHP9k9VkCnzsi7O
-    bucketName: web-tlias-shijie
+    accessKeyId:
+    accessKeySecret:
+    bucketName:
 
 # 开启事务管理日志
 logging:

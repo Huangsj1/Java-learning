@@ -4,71 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "02b112c5ecfd823d",
+        "id": "7c6b49e76587ac49",
         "type": "tabs",
         "children": [
           {
-            "id": "31ab1f4200d3cfc6",
+            "id": "9764a18f2bdc86f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/Maven/一、分模块开发与设计.md",
+                "file": "实际项目/瑞吉外卖/一、初始化项目.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36a13d2599966142",
+            "id": "8324c1c018cf321c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/SpringBoot/一、简介.md",
+                "file": "实际项目/瑞吉外卖/二、登录功能 & 员工操作.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "31b79afe66d46c5e",
+            "id": "77b6f7bb08e52728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/SpringBoot/二、配置文件.md",
+                "file": "实际项目/瑞吉外卖/三、菜品&套餐分类.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc2b07720004182b",
+            "id": "50b463496c77ae94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/SpringBoot/三、整合第三方技术.md",
+                "file": "实际项目/瑞吉外卖/四、菜品.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5a66e33315fc2d4a",
+            "id": "dcab640deb18670f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/MyBatisPlus/一、简介.md",
+                "file": "实际项目/瑞吉外卖/五、套餐.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f9bc3fd0057a5a8",
+            "id": "fac1603500c2ac64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,21 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "82d548e0fa5df325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSM/Maven/一、分模块开发与设计.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "071c720118bdfa90",
@@ -166,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSM/MyBatisPlus/二、增删查改操作.md",
+                "file": "实际项目/瑞吉外卖/四、菜品.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSM/MyBatisPlus/二、增删查改操作.md",
+                "file": "实际项目/瑞吉外卖/四、菜品.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSM/MyBatisPlus/二、增删查改操作.md"
+                "file": "实际项目/瑞吉外卖/四、菜品.md"
               }
             }
           },
@@ -251,54 +240,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f9bc3fd0057a5a8",
+  "active": "50b463496c77ae94",
   "lastOpenFiles": [
-    "SSM/MyBatisPlus/一、简介.md",
+    "实际项目/瑞吉外卖/五、套餐.md",
+    "实际项目/瑞吉外卖/四、菜品.md",
     "SSM/MyBatisPlus/二、增删查改操作.md",
+    "实际项目/瑞吉外卖/三、菜品&套餐分类.md",
+    "Java 基础/0.IDEA & 项目.md",
+    "JavaWeb/后端开发/postman请求响应.md",
+    "JavaWeb/后端开发/HTTP协议.md",
+    "Java 基础/5.IO流.md",
+    "Java 基础/4.异常 & File.md",
+    "实际项目/瑞吉外卖/二、登录功能 & 员工操作.md",
+    "实际项目/瑞吉外卖/一、初始化项目.md",
+    "SSM/SpringMVC/一、请求响应与REST风格.md",
+    "SSM/SpringBoot/一、简介.md",
+    "SSM/Spring/Spring 学习路线.md",
+    "SSM/Spring/二、AOP面向切面编程.md",
+    "attachment/Pasted image 20240123214536.png",
+    "attachment/Pasted image 20240123214529.png",
+    "attachment/Pasted image 20240123212459.png",
+    "SSM/MyBatisPlus/一、简介.md",
+    "JavaWeb/后端开发/案例1.员工部门管理系统.md",
+    "attachment/Pasted image 20240123161052.png",
+    "JavaWeb/后端开发/SpringBootWeb开发.md",
+    "JavaWeb/后端开发/MySQL数据库语句.md",
+    "实际项目/瑞吉外卖",
+    "实际项目",
+    "SSM/Spring/三、事务.md",
+    "SSM/Spring/一、核心容器.md",
+    "SSM/SpringBoot/三、整合第三方技术.md",
+    "SSM/SpringBoot/二、配置文件.md",
     "attachment/Pasted image 20240117163759.png",
     "attachment/Pasted image 20240117163746.png",
     "attachment/Pasted image 20240117163736.png",
     "attachment/Pasted image 20240117163730.png",
     "attachment/Pasted image 20240117162715.png",
     "attachment/500d0308e173da65dfbc4632980bf2c.jpg",
-    "attachment/Pasted image 20240117162650.png",
-    "attachment/Pasted image 20240117162642.png",
-    "attachment/Pasted image 20240117162628.png",
-    "attachment/d0c15e80d616712dac6bdc32344bed5.jpg",
     "JavaWeb/后端开发/MyBatis简化JDBC.md",
-    "SSM/SpringBoot/三、整合第三方技术.md",
     "SSM/MyBatisPlus",
-    "SSM/SpringBoot/二、配置文件.md",
-    "SSM/SpringBoot/一、简介.md",
     "SSM/Maven/一、分模块开发与设计.md",
     "SSM/SpringBoot",
     "SSM/SpringMVC/三、拦截器.md",
-    "SSM/SpringMVC/二、异常处理.md",
-    "JavaWeb/后端开发/Maven高级.md",
-    "JavaWeb/后端开发/Maven管理项目.md",
     "SSM/Maven",
-    "JavaWeb/后端开发/案例1.员工部门管理系统.md",
-    "JavaWeb/后端开发/Tomcat服务器.md",
-    "JavaWeb/后端开发/SpringBootWeb开发.md",
-    "JavaWeb/后端开发/postman请求响应.md",
-    "JavaWeb/后端开发/MySQL数据库语句.md",
-    "JavaWeb/后端开发/HTTP协议.md",
-    "JavaWeb/后端开发/AOP面向切面编程.md",
-    "JavaWeb/后端开发/事务管理.md",
-    "JavaWeb/后端开发/模块的复制.md",
-    "SSM/Spring/二、AOP面向切面编程.md",
-    "SSM/SpringMVC/一、请求响应与REST风格.md",
-    "SSM/Spring/三、事务.md",
-    "SSM/Spring/一、核心容器.md",
     "SSM/SpringMVC",
-    "SSM/Spring/Spring 学习路线.md",
-    "Java 基础/6.多线程.md",
     "SSM/Spring",
     "SSM",
     "JavaWeb/前端开发/JS/Vue",
     "JavaWeb/前端开发/JS",
-    "JavaWeb/前端开发/HTML",
-    "JavaWeb/前端开发/CSS",
     "未命名.canvas"
   ]
 }
