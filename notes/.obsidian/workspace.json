@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/MyBatisPlus/二、增删查改操作.md",
+                "file": "JavaWeb/后端开发/案例1.员工部门管理系统.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "071c720118bdfa90",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实际项目/瑞吉外卖/四、菜品.md",
+                "file": "JavaWeb/后端开发/案例1.员工部门管理系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实际项目/瑞吉外卖/四、菜品.md",
+                "file": "JavaWeb/后端开发/案例1.员工部门管理系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实际项目/瑞吉外卖/四、菜品.md"
+                "file": "JavaWeb/后端开发/案例1.员工部门管理系统.md"
               }
             }
           },
@@ -240,11 +239,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50b463496c77ae94",
+  "active": "fac1603500c2ac64",
   "lastOpenFiles": [
-    "实际项目/瑞吉外卖/五、套餐.md",
-    "实际项目/瑞吉外卖/四、菜品.md",
     "SSM/MyBatisPlus/二、增删查改操作.md",
+    "实际项目/瑞吉外卖/四、菜品.md",
+    "实际项目/瑞吉外卖/五、套餐.md",
     "实际项目/瑞吉外卖/三、菜品&套餐分类.md",
     "Java 基础/0.IDEA & 项目.md",
     "JavaWeb/后端开发/postman请求响应.md",
