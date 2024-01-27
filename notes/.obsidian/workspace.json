@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8e05658827d5a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实际项目/瑞吉外卖/六、手机或邮箱验证码登录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32ad8fe28f488264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实际项目/瑞吉外卖/七、移动端内容.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -138,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "071c720118bdfa90",
@@ -154,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaWeb/后端开发/案例1.员工部门管理系统.md",
+                "file": "实际项目/瑞吉外卖/七、移动端内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaWeb/后端开发/案例1.员工部门管理系统.md",
+                "file": "实际项目/瑞吉外卖/七、移动端内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaWeb/后端开发/案例1.员工部门管理系统.md"
+                "file": "实际项目/瑞吉外卖/七、移动端内容.md"
               }
             }
           },
@@ -239,18 +264,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fac1603500c2ac64",
+  "active": "32ad8fe28f488264",
   "lastOpenFiles": [
-    "SSM/MyBatisPlus/二、增删查改操作.md",
+    "实际项目/瑞吉外卖/二、登录功能 & 员工操作.md",
+    "实际项目/瑞吉外卖/三、菜品&套餐分类.md",
     "实际项目/瑞吉外卖/四、菜品.md",
     "实际项目/瑞吉外卖/五、套餐.md",
-    "实际项目/瑞吉外卖/三、菜品&套餐分类.md",
+    "实际项目/瑞吉外卖/六、手机或邮箱验证码登录.md",
+    "实际项目/瑞吉外卖/七、移动端内容.md",
+    "attachment/Pasted image 20240127170322.png",
+    "attachment/Pasted image 20240127170243.png",
+    "attachment/Pasted image 20240127170210.png",
+    "JavaWeb/后端开发/案例1.员工部门管理系统.md",
+    "SSM/MyBatisPlus/二、增删查改操作.md",
     "Java 基础/0.IDEA & 项目.md",
     "JavaWeb/后端开发/postman请求响应.md",
     "JavaWeb/后端开发/HTTP协议.md",
     "Java 基础/5.IO流.md",
     "Java 基础/4.异常 & File.md",
-    "实际项目/瑞吉外卖/二、登录功能 & 员工操作.md",
     "实际项目/瑞吉外卖/一、初始化项目.md",
     "SSM/SpringMVC/一、请求响应与REST风格.md",
     "SSM/SpringBoot/一、简介.md",
@@ -260,7 +291,6 @@
     "attachment/Pasted image 20240123214529.png",
     "attachment/Pasted image 20240123212459.png",
     "SSM/MyBatisPlus/一、简介.md",
-    "JavaWeb/后端开发/案例1.员工部门管理系统.md",
     "attachment/Pasted image 20240123161052.png",
     "JavaWeb/后端开发/SpringBootWeb开发.md",
     "JavaWeb/后端开发/MySQL数据库语句.md",
@@ -273,14 +303,8 @@
     "attachment/Pasted image 20240117163759.png",
     "attachment/Pasted image 20240117163746.png",
     "attachment/Pasted image 20240117163736.png",
-    "attachment/Pasted image 20240117163730.png",
-    "attachment/Pasted image 20240117162715.png",
-    "attachment/500d0308e173da65dfbc4632980bf2c.jpg",
-    "JavaWeb/后端开发/MyBatis简化JDBC.md",
     "SSM/MyBatisPlus",
-    "SSM/Maven/一、分模块开发与设计.md",
     "SSM/SpringBoot",
-    "SSM/SpringMVC/三、拦截器.md",
     "SSM/Maven",
     "SSM/SpringMVC",
     "SSM/Spring",
