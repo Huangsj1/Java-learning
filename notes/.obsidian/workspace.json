@@ -8,79 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9764a18f2bdc86f9",
+            "id": "a8d4b80da4143282",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际项目/瑞吉外卖/一、初始化项目.md",
+                "file": "实际项目/瑞吉外卖/组件/Linux/CentOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8324c1c018cf321c",
+            "id": "2ffb1aa57405098a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际项目/瑞吉外卖/二、登录功能 & 员工操作.md",
+                "file": "实际项目/瑞吉外卖/组件/Git/IDEA使用git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "77b6f7bb08e52728",
+            "id": "9caea692bf6717cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际项目/瑞吉外卖/三、菜品&套餐分类.md",
+                "file": "实际项目/瑞吉外卖/八、缓存优化.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "50b463496c77ae94",
+            "id": "1790ce4789035707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际项目/瑞吉外卖/四、菜品.md",
+                "file": "实际项目/瑞吉外卖/九、Mysql主从复制 & 读写分离.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dcab640deb18670f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实际项目/瑞吉外卖/五、套餐.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fac1603500c2ac64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaWeb/后端开发/案例1.员工部门管理系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8e05658827d5a2f",
+            "id": "59a4c70528c2b2eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,19 +68,55 @@
             }
           },
           {
-            "id": "32ad8fe28f488264",
+            "id": "201a6b0fb02c7b1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际项目/瑞吉外卖/七、移动端内容.md",
+                "file": "实际项目/瑞吉外卖/组件/Linux/CentOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef4d348bada4e730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实际项目/瑞吉外卖/组件/Nginx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bdf81b890c27182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实际项目/瑞吉外卖/十、前后端分离开发.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8be4da7ad1a897e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实际项目/瑞吉外卖/十一、项目部署.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -162,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "071c720118bdfa90",
@@ -179,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实际项目/瑞吉外卖/七、移动端内容.md",
+                "file": "实际项目/瑞吉外卖/十一、项目部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实际项目/瑞吉外卖/七、移动端内容.md",
+                "file": "实际项目/瑞吉外卖/十一、项目部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实际项目/瑞吉外卖/七、移动端内容.md"
+                "file": "实际项目/瑞吉外卖/十一、项目部署.md"
               }
             }
           },
@@ -264,53 +275,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32ad8fe28f488264",
+  "active": "8be4da7ad1a897e5",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240201172528.png",
+    "attachment/Pasted image 20240201125510.png",
+    "实际项目/瑞吉外卖/十、前后端分离开发.md",
+    "实际项目/瑞吉外卖/十一、项目部署.md",
+    "attachment/Pasted image 20240201122114.png",
+    "attachment/Pasted image 20240201122000.png",
+    "attachment/ae51275c905fc5bc4c09227f20fa616.jpg",
+    "attachment/dfc41447e7ed42290d47dc03a7fd839.jpg",
+    "实际项目/瑞吉外卖/组件/Linux/CentOS.md",
+    "实际项目/瑞吉外卖/组件/Nginx.md",
+    "实际项目/瑞吉外卖/组件/Redis.md",
+    "实际项目/瑞吉外卖/组件",
+    "attachment/Pasted image 20240201112404.png",
+    "attachment/Pasted image 20240201112348.png",
+    "attachment/Pasted image 20240201112335.png",
+    "attachment/Pasted image 20240201112325.png",
+    "attachment/Pasted image 20240201112309.png",
+    "实际项目/瑞吉外卖/六、手机或邮箱验证码登录.md",
+    "JavaWeb/后端开发/案例1.员工部门管理系统.md",
+    "实际项目/瑞吉外卖/九、Mysql主从复制 & 读写分离.md",
+    "实际项目/瑞吉外卖/八、缓存优化.md",
+    "SSM/Maven/一、分模块开发与设计.md",
+    "实际项目/瑞吉外卖/组件/Git/IDEA使用git.md",
+    "实际项目/瑞吉外卖/组件/Git/虚拟机配置github和gitee.md",
+    "SSM/Redis",
+    "实际项目/瑞吉外卖/一、初始化项目.md",
+    "实际项目/瑞吉外卖/组件/Linux",
+    "实际项目/瑞吉外卖/七、移动端内容.md",
+    "实际项目/瑞吉外卖/组件/Git",
+    "其他工具",
     "实际项目/瑞吉外卖/二、登录功能 & 员工操作.md",
     "实际项目/瑞吉外卖/三、菜品&套餐分类.md",
     "实际项目/瑞吉外卖/四、菜品.md",
     "实际项目/瑞吉外卖/五、套餐.md",
-    "实际项目/瑞吉外卖/六、手机或邮箱验证码登录.md",
-    "实际项目/瑞吉外卖/七、移动端内容.md",
-    "attachment/Pasted image 20240127170322.png",
-    "attachment/Pasted image 20240127170243.png",
-    "attachment/Pasted image 20240127170210.png",
-    "JavaWeb/后端开发/案例1.员工部门管理系统.md",
     "SSM/MyBatisPlus/二、增删查改操作.md",
     "Java 基础/0.IDEA & 项目.md",
     "JavaWeb/后端开发/postman请求响应.md",
     "JavaWeb/后端开发/HTTP协议.md",
     "Java 基础/5.IO流.md",
     "Java 基础/4.异常 & File.md",
-    "实际项目/瑞吉外卖/一、初始化项目.md",
     "SSM/SpringMVC/一、请求响应与REST风格.md",
-    "SSM/SpringBoot/一、简介.md",
-    "SSM/Spring/Spring 学习路线.md",
-    "SSM/Spring/二、AOP面向切面编程.md",
-    "attachment/Pasted image 20240123214536.png",
-    "attachment/Pasted image 20240123214529.png",
-    "attachment/Pasted image 20240123212459.png",
-    "SSM/MyBatisPlus/一、简介.md",
-    "attachment/Pasted image 20240123161052.png",
-    "JavaWeb/后端开发/SpringBootWeb开发.md",
-    "JavaWeb/后端开发/MySQL数据库语句.md",
     "实际项目/瑞吉外卖",
     "实际项目",
-    "SSM/Spring/三、事务.md",
-    "SSM/Spring/一、核心容器.md",
-    "SSM/SpringBoot/三、整合第三方技术.md",
-    "SSM/SpringBoot/二、配置文件.md",
-    "attachment/Pasted image 20240117163759.png",
-    "attachment/Pasted image 20240117163746.png",
-    "attachment/Pasted image 20240117163736.png",
     "SSM/MyBatisPlus",
     "SSM/SpringBoot",
     "SSM/Maven",
-    "SSM/SpringMVC",
-    "SSM/Spring",
-    "SSM",
-    "JavaWeb/前端开发/JS/Vue",
-    "JavaWeb/前端开发/JS",
     "未命名.canvas"
   ]
 }
