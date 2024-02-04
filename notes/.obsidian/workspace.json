@@ -109,14 +109,134 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际项目/瑞吉外卖/十一、项目部署.md",
+                "file": "JavaWeb/前端开发/HTML/2.表格&表单.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e2fd5c785902620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaWeb/前端开发/JS/3.Ajax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63cf6445e286084a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaWeb/前端开发/Vue2/2.Vue基础部分（绑定&axios）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "738dc8c14876dd6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaWeb/前端开发/Vue2/4.Router路由配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19579b94af3d9d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaWeb/前端开发/Vue2/5.vuex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0667e689b28a05b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaWeb/前端开发/Vue2/1.Vue项目搭建.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4483d35834cd3b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaWeb/前端开发/Vue3/1.环境准备.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9ff12d047a0a0e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaWeb/前端开发/Vue3/2.基础知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83072d28c7aee51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaWeb/前端开发/Vue3/3.antdv组件库.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9087c7cac5747a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaWeb/前端开发/Vue3/4.Router路由.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aede7587c84eeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaWeb/前端开发/Vue2/2.Vue基础部分（绑定&axios）.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -145,7 +265,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#提示",
+                "query": "5.vuex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +294,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 292.5
   },
   "right": {
     "id": "071c720118bdfa90",
@@ -190,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实际项目/瑞吉外卖/十一、项目部署.md",
+                "file": "JavaWeb/前端开发/Vue2/2.Vue基础部分（绑定&axios）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实际项目/瑞吉外卖/十一、项目部署.md",
+                "file": "JavaWeb/前端开发/Vue2/2.Vue基础部分（绑定&axios）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实际项目/瑞吉外卖/十一、项目部署.md"
+                "file": "JavaWeb/前端开发/Vue2/2.Vue基础部分（绑定&axios）.md"
               }
             }
           },
@@ -275,54 +395,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8be4da7ad1a897e5",
+  "active": "7aede7587c84eeb7",
   "lastOpenFiles": [
-    "attachment/Pasted image 20240201172528.png",
-    "attachment/Pasted image 20240201125510.png",
-    "实际项目/瑞吉外卖/十、前后端分离开发.md",
-    "实际项目/瑞吉外卖/十一、项目部署.md",
-    "attachment/Pasted image 20240201122114.png",
-    "attachment/Pasted image 20240201122000.png",
-    "attachment/ae51275c905fc5bc4c09227f20fa616.jpg",
-    "attachment/dfc41447e7ed42290d47dc03a7fd839.jpg",
-    "实际项目/瑞吉外卖/组件/Linux/CentOS.md",
-    "实际项目/瑞吉外卖/组件/Nginx.md",
-    "实际项目/瑞吉外卖/组件/Redis.md",
-    "实际项目/瑞吉外卖/组件",
-    "attachment/Pasted image 20240201112404.png",
-    "attachment/Pasted image 20240201112348.png",
-    "attachment/Pasted image 20240201112335.png",
-    "attachment/Pasted image 20240201112325.png",
-    "attachment/Pasted image 20240201112309.png",
-    "实际项目/瑞吉外卖/六、手机或邮箱验证码登录.md",
-    "JavaWeb/后端开发/案例1.员工部门管理系统.md",
-    "实际项目/瑞吉外卖/九、Mysql主从复制 & 读写分离.md",
-    "实际项目/瑞吉外卖/八、缓存优化.md",
+    "JavaWeb/前端开发/JS/3.Ajax.md",
+    "JavaWeb/前端开发/JS/2.api使用（查找修改&fetch&xhr&导入导出）.md",
+    "JavaWeb/前端开发/JS/1.JS基础部分.md",
+    "JavaWeb/前端开发/Vue3/5.pinia.md",
+    "attachment/Pasted image 20240204171532.png",
+    "JavaWeb/前端开发/Vue2/5.vuex.md",
+    "JavaWeb/前端开发/Vue2/4.Router路由配置.md",
+    "attachment/Pasted image 20240204170835.png",
+    "JavaWeb/前端开发/Vue3/4.Router路由.md",
+    "attachment/Pasted image 20240204164612.png",
+    "attachment/Pasted image 20240204164143.png",
+    "JavaWeb/前端开发/Vue3/3.antdv组件库.md",
+    "JavaWeb/前端开发/Vue2/3. 组件库element-ui.md",
+    "attachment/Pasted image 20240204160032.png",
+    "JavaWeb/前端开发/Vue3/2.基础知识.md",
+    "attachment/c2a658890e8b1efff2b233335f5b7df.jpg",
+    "JavaWeb/前端开发/Vue2/2.Vue基础部分（绑定&axios）.md",
+    "attachment/23d81ade5837a9c7ba2957cf5fc4a38.jpg",
+    "attachment/Pasted image 20240204123145.png",
+    "attachment/ce8d2fc82157cb28678668796a5b1da.jpg",
+    "attachment/Pasted image 20240204114549.png",
+    "JavaWeb/前端开发/Vue3/1.环境准备.md",
+    "JavaWeb/前端开发/Vue2/1.Vue项目搭建.md",
+    "JavaWeb/前端开发/Vue3",
+    "JavaWeb/前端开发/TS/一、入门.md",
+    "JavaWeb/前端开发/TS",
+    "JavaWeb/前端开发/HTML/3.session.md",
+    "JavaWeb/前端开发/HTML/2.表格&表单.md",
+    "JavaWeb/前端开发/CSS/2.复合选择器-元素类型-背景.md",
+    "JavaWeb/前端开发/CSS/5.THML5新样式-CSS3新样式.md",
+    "JavaWeb/前端开发/CSS/1.基础选择器-字体-文本.md",
+    "JavaWeb/前端开发/CSS/3.三大特性-盒子-浮动-定位-隐藏.md",
+    "JavaWeb/前端开发/HTML/1.基本标签.md",
+    "SSM/SpringBoot/三、整合第三方技术.md",
+    "SSM/SpringBoot/二、配置文件.md",
+    "SSM/SpringBoot/一、简介.md",
     "SSM/Maven/一、分模块开发与设计.md",
-    "实际项目/瑞吉外卖/组件/Git/IDEA使用git.md",
-    "实际项目/瑞吉外卖/组件/Git/虚拟机配置github和gitee.md",
+    "实际项目/瑞吉外卖/组件",
     "SSM/Redis",
-    "实际项目/瑞吉外卖/一、初始化项目.md",
     "实际项目/瑞吉外卖/组件/Linux",
-    "实际项目/瑞吉外卖/七、移动端内容.md",
     "实际项目/瑞吉外卖/组件/Git",
     "其他工具",
-    "实际项目/瑞吉外卖/二、登录功能 & 员工操作.md",
-    "实际项目/瑞吉外卖/三、菜品&套餐分类.md",
-    "实际项目/瑞吉外卖/四、菜品.md",
-    "实际项目/瑞吉外卖/五、套餐.md",
-    "SSM/MyBatisPlus/二、增删查改操作.md",
-    "Java 基础/0.IDEA & 项目.md",
-    "JavaWeb/后端开发/postman请求响应.md",
-    "JavaWeb/后端开发/HTTP协议.md",
-    "Java 基础/5.IO流.md",
-    "Java 基础/4.异常 & File.md",
-    "SSM/SpringMVC/一、请求响应与REST风格.md",
     "实际项目/瑞吉外卖",
     "实际项目",
     "SSM/MyBatisPlus",
-    "SSM/SpringBoot",
-    "SSM/Maven",
     "未命名.canvas"
   ]
 }
