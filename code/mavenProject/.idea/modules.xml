@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mavenProject.iml" filepath="$PROJECT_DIR$/mavenProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tlias/tlias.iml" filepath="$PROJECT_DIR$/tlias/tlias.iml" />
     </modules>
   </component>
 </project>

@@ -60,11 +60,30 @@
 
 具体查看黑马瑞吉外卖Linux软件安装部分
 
+软件安装包可以上传到 `/root` 下的任意文件夹下，统一解压到 `usr/local`文件夹下
+
 ## jdk
 
 版本需要和IDEA中的项目版本一致
 
+![[d489aa7a691a4122920dd30962d278b.jpg]]
+
+```shell
+tar -zxvf jdk-8u171-linux-x64.tar.gz -C /usr/local
+```
+
+```profile
+JAVA_HOME=/usr/local/idk1.8.0_152
+PATH=$JAVA_HOME/bin:$PATH
+```
+
 ## Tomcat
+
+![[ecd874d725a0454dbefd4616e2112a7.jpg]]
+
+```shell
+tar -zxvf apache-tomcat-7.0.57.tar.gz -C /usr/local
+```
 
 需要关闭防火墙：
 
@@ -80,7 +99,7 @@
 
 下面是Tomcat的开启和关闭操作：
 
-1. 开启Tomcat服务器：进入到解压缩的包的文件夹中的 `/bin`目录下执行 `sh start.sh` 即可开启（要关闭防火墙指定端口8080）
+1. 开启Tomcat服务器：进入到解压缩的包的文件夹中的 `/bin`目录下执行 `sh startup.sh` 即可开启（要关闭防火墙指定端口8080）
 2. 关闭Tomcat服务器：在同样目录下（`/usr/local/apache-tomcat***/bin`）执行 `sh shutdown.sh` 即可关闭
 	* 也可以先用 `ps -ef | grep tomcat` 查看进程，然后用 `kill -9 <进程号>` 关闭进程
 
@@ -88,8 +107,22 @@
 
 安装参考[linux 安装mysql8.0](https://blog.csdn.net/u011421988/article/details/107234718)
 
+第九步初始化的时候报错 `./mysqld: error while loading shared libraries: libaio.so.1: cannot open shared object file: No such file or directory`
+
+```shell
+# 查看是否安装libaio
+rpm -qa|grep libaio
+
+# 没安装就安装
+yum install -y libaio
+
+# 之后再执行初始化操作
+./mysqld --user=mysql --basedir=/usr/local/mysql-8.0 --datadir=/usr/local/mysql-8.0/data/ --initialize
+```
+
 * 查看已经启动的服务：`netstat -tunlp`
 	* 需要先安装 `yum install net-tools`
+* 开启mysql服务：`systemctl start mysql`
 * 设置开机启动mysql服务：`systemctl enable mysql`
 
 ## lrzsz
@@ -112,10 +145,17 @@
 ## 2. Shell部署
 
 1. 先Linux下安装 `Git`，`maven`
+	* ![[d70d23ad4aed4f15113a2eaccb67ea9.jpg]]如果maven[报错：/usr/bin/mvn:行9: /usr/share/maven/bin/mvn: 没有那个文件或目录就参考该链接](https://blog.csdn.net/qq_41415742/article/details/112858036)，之后 `mvn -version` 就可以看到了
 2. 编写 `Shell` **脚本来拉取代码、编译、打包、启动**
-	* 编写了之后还需要赋予该脚本文件执行权限才能执行 `chmod 777 bootStart.sh`
-3. 为用户授予执行Shell脚本的权限
-4. 执行Shell脚本
+	* 编写了之后还需要赋予该脚本文件执行权限才能执行 
+3. 为用户授予执行Shell脚本的权限 `chmod 777 bootStart.sh`
+4. 在对应拉去项目的文件夹下 `/usr/local/reggie/` 新建仓库连接远程仓库：
+	1. `git init` 初始化git仓库
+	2. `git remote add origin git@gitee.com:xxx/xxx.git` 连接远程仓库
+	3. `git pull origin master` 拉取
+	4. `git branch --set-upstream-to=origin/master master` 设置分支
+	5. `git pull` 拉取代码
+5. 执行Shell脚本
 
 ```shell
 #!/bin/sh

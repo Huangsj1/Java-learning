@@ -6,6 +6,8 @@ Redis是基于内存的数据库，适用于一些热点数据（短时间大量
 
 ## 1. Linux
 
+![[6789913c06b2fe0d1e842de33c39c53.jpg]]
+
 1. redis根目录下修改配置文件 `redis.conf`，找到 `daemonize no` 改成 `yes`即可让服务在后台运行
 2. 在redis根目录下执行 ` src/redis-server ./redis.conf` 即可启动服务，然后另一个终端在 `src/` 目录下执行 `./redis-cli` 即可开启客户端
 
