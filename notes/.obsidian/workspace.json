@@ -6,100 +6,75 @@
       {
         "id": "e63c0c2ede788757",
         "type": "tabs",
-        "dimension": 81.88405797101449,
+        "dimension": 83.06519898391194,
         "children": [
           {
-            "id": "9703abd0778b9fc5",
+            "id": "95a22e3e9452e4c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSM/SpringSecurity/认证&授权.md",
+                "file": "面试准备/Java/1.八股文.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "076150c0f4304c8c",
+            "id": "b5635f5c7a4cb0b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 基础/0.IDEA & 项目.md",
+                "file": "面试准备/Java/0.刷题常用语法.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1798b964b0a8e804",
+            "id": "7d7abbbd80594275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际项目/个人博客/1.项目搭建.md",
+                "file": "00 Inbox/腾讯面经.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1adb272e87f8333d",
+            "id": "2996fc04b9aae5bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际项目/个人博客/1.项目搭建.md",
+                "file": "面试准备/操作系统/RunableOS/1. 内核启动.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0e8686de9158b6d5",
+            "id": "5759447a15d3d5fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际项目/瑞吉外卖/十一、项目部署.md",
+                "file": "面试准备/操作系统/Linux内核/1. 内存空间.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6aa5de451e96c0e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实际项目/个人博客/5.项目部署到服务器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fada026786d7e1b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实际项目/组件/Linux/CentOS.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "e2e68627aa72a252"
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "e015eb2b6a4abc31",
         "type": "tabs",
-        "dimension": 18.115942028985508,
+        "dimension": 16.93480101608806,
         "children": [
           {
             "id": "685dadf919693f86",
@@ -107,10 +82,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实际项目/组件/Linux/CentOS.md"
+                "file": "面试准备/操作系统/Linux内核/1. 内存空间.md"
               }
-            },
-            "group": "e2e68627aa72a252"
+            }
           }
         ]
       }
@@ -141,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "5.vuex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 281.5
   },
   "right": {
     "id": "071c720118bdfa90",
@@ -186,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实际项目/个人博客/5.项目部署到服务器.md",
+                "file": "面试准备/操作系统/Linux内核/1. 内存空间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实际项目/个人博客/5.项目部署到服务器.md",
+                "file": "面试准备/操作系统/Linux内核/1. 内存空间.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实际项目/个人博客/5.项目部署到服务器.md"
+                "file": "面试准备/操作系统/Linux内核/1. 内存空间.md"
               }
             }
           },
@@ -249,6 +223,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "756a3108116c8614",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -268,56 +250,59 @@
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "6aa5de451e96c0e0",
+  "active": "5759447a15d3d5fc",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240316220805.png",
+    "attachment/Pasted image 20240316220758.png",
+    "attachment/Pasted image 20240316220621.png",
+    "attachment/Pasted image 20240316215649.png",
+    "attachment/Pasted image 20240316214145.png",
+    "attachment/Pasted image 20240316182644.png",
+    "attachment/Pasted image 20240316182504.png",
+    "attachment/Pasted image 20240316182021.png",
+    "attachment/Pasted image 20240316181742.png",
+    "attachment/Pasted image 20240316174237.png",
+    "attachment/Pasted image 20240316174056.png",
+    "面试准备/操作系统/RunableOS/1. 内核启动.md",
+    "面试准备/操作系统/Linux内核/1. 内存空间.md",
+    "面试准备/操作系统/RunableOS",
+    "未命名",
+    "面试准备/操作系统/Linux内核",
+    "面试准备/操作系统/优化篇/1. 内存的高级优化.md",
+    "面试准备/操作系统/优化篇/2. 线程调度.md",
+    "00 Inbox/腾讯面经.md",
+    "面试准备/Java/0.刷题常用语法.md",
+    "面试准备/Java/1.八股文.md",
+    "面试准备/MySQL/1. 索引.md",
+    "面试准备/MySQL",
+    "面试准备/操作系统/RunableOS/2. 内核初始化.md",
+    "面试准备/操作系统/RunableOS/9. 并发.md",
+    "面试准备/操作系统/RunableOS/8. 进程与线程之间的通信.md",
+    "面试准备/操作系统/RunableOS/7. 中断.md",
+    "面试准备/操作系统/RunableOS/4. 用户和内核切换 & 线程之间切换.md",
+    "面试准备/操作系统/RunableOS/5. 用户启动.md",
+    "面试准备/操作系统/RunableOS/3. 内存空间.md",
+    "Excalidraw/2. 内核初始化 2024-03-13 17.05.02.excalidraw.md",
+    "面试准备/操作系统/RunableOS/6. 文件系统生成和使用.md",
+    "Excalidraw/6. 文件系统生成和使用 2024-03-14 11.22.57.excalidraw.md",
+    "Java/Java 基础/1. 基础语法.md",
+    "Excalidraw",
+    "面试准备/操作系统/优化篇",
+    "00 Inbox/课程.md",
+    "面试准备/操作系统",
+    "SSM/Redis/三、原理.md",
+    "Java/JVM/0.JVM的理解.md",
+    "Java/JVM/2.类加载器.md",
     "实际项目/个人博客/1.项目搭建.md",
-    "实际项目/个人博客/5.项目部署到服务器.md",
-    "实际项目/组件/Linux/CentOS.md",
-    "实际项目/瑞吉外卖/十一、项目部署.md",
-    "实际项目/组件/Nginx.md",
-    "实际项目/瑞吉外卖/一、初始化项目.md",
-    "attachment/Pasted image 20240221161651.png",
-    "attachment/Pasted image 20240221161520.png",
-    "实际项目/组件/Git/虚拟机配置github和gitee.md",
-    "实际项目/组件/Redis.md",
-    "attachment/d70d23ad4aed4f15113a2eaccb67ea9.jpg",
-    "attachment/6789913c06b2fe0d1e842de33c39c53.jpg",
-    "实际项目/个人博客/3.Swagger2.md",
-    "attachment/ecd874d725a0454dbefd4616e2112a7.jpg",
-    "attachment/d489aa7a691a4122920dd30962d278b.jpg",
-    "Java 基础/7.网络编程.md",
-    "实际项目/个人博客/4.博客后台.md",
-    "attachment/Pasted image 20240220101333.png",
-    "JavaWeb/后端开发/案例1.员工部门管理系统.md",
-    "Java 基础/1. 基础语法.md",
     "实际项目/个人博客/2.博客前台.md",
-    "实际项目/瑞吉外卖/八、缓存优化.md",
-    "SSM/Spring/二、AOP面向切面编程.md",
-    "SSM/SpringSecurity/认证&授权.md",
-    "Java 基础/0.IDEA & 项目.md",
-    "attachment/Pasted image 20240216205819.png",
-    "attachment/Pasted image 20240216205805.png",
-    "attachment/Pasted image 20240216205648.png",
-    "SSM/SpringSecurity",
-    "Java 基础/3.常用API.md",
-    "实际项目/组件/Git/IDEA使用git.md",
-    "JavaWeb/前端开发/Vue2/2.Vue基础部分（绑定&axios）.md",
-    "实际项目/个人博客",
-    "JavaWeb/前端开发/JS/3.Ajax.md",
-    "JavaWeb/前端开发/JS/2.api使用（查找修改&fetch&xhr&导入导出）.md",
-    "JavaWeb/前端开发/JS/1.JS基础部分.md",
-    "JavaWeb/前端开发/Vue3/5.pinia.md",
-    "JavaWeb/前端开发/Vue3",
-    "JavaWeb/前端开发/TS",
-    "实际项目/组件",
+    "Java/JVM",
+    "Java",
     "SSM/Redis",
-    "实际项目/组件/Linux",
-    "实际项目/组件/Git",
-    "其他工具",
-    "实际项目/瑞吉外卖",
     "未命名.canvas"
   ]
 }
