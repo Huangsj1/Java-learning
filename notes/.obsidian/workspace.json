@@ -6,7 +6,7 @@
       {
         "id": "e63c0c2ede788757",
         "type": "tabs",
-        "dimension": 83.06519898391194,
+        "dimension": 82.83261802575107,
         "children": [
           {
             "id": "95a22e3e9452e4c1",
@@ -45,36 +45,60 @@
             }
           },
           {
-            "id": "2996fc04b9aae5bb",
+            "id": "b01ef8bfe45bf596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试准备/操作系统/RunableOS/1. 内核启动.md",
+                "file": "面试准备/MySQL/2. 索引.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5759447a15d3d5fc",
+            "id": "9c5a974060c21231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试准备/操作系统/Linux内核/1. 内存空间.md",
+                "file": "面试准备/MySQL/3. 事务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0be2e934924571c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试准备/MySQL/4. 锁.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "246a3cab087a53e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试准备/MySQL/5. 日志.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "e015eb2b6a4abc31",
         "type": "tabs",
-        "dimension": 16.93480101608806,
+        "dimension": 17.167381974248926,
         "children": [
           {
             "id": "685dadf919693f86",
@@ -82,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试准备/操作系统/Linux内核/1. 内存空间.md"
+                "file": "面试准备/MySQL/5. 日志.md"
               }
             }
           }
@@ -144,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 239.5
   },
   "right": {
     "id": "071c720118bdfa90",
@@ -160,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试准备/操作系统/Linux内核/1. 内存空间.md",
+                "file": "面试准备/MySQL/5. 日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试准备/操作系统/Linux内核/1. 内存空间.md",
+                "file": "面试准备/MySQL/5. 日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试准备/操作系统/Linux内核/1. 内存空间.md"
+                "file": "面试准备/MySQL/5. 日志.md"
               }
             }
           },
@@ -255,54 +279,53 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5759447a15d3d5fc",
+  "active": "246a3cab087a53e0",
   "lastOpenFiles": [
-    "attachment/Pasted image 20240316220805.png",
-    "attachment/Pasted image 20240316220758.png",
-    "attachment/Pasted image 20240316220621.png",
-    "attachment/Pasted image 20240316215649.png",
-    "attachment/Pasted image 20240316214145.png",
-    "attachment/Pasted image 20240316182644.png",
-    "attachment/Pasted image 20240316182504.png",
-    "attachment/Pasted image 20240316182021.png",
-    "attachment/Pasted image 20240316181742.png",
-    "attachment/Pasted image 20240316174237.png",
-    "attachment/Pasted image 20240316174056.png",
-    "面试准备/操作系统/RunableOS/1. 内核启动.md",
-    "面试准备/操作系统/Linux内核/1. 内存空间.md",
-    "面试准备/操作系统/RunableOS",
-    "未命名",
-    "面试准备/操作系统/Linux内核",
-    "面试准备/操作系统/优化篇/1. 内存的高级优化.md",
-    "面试准备/操作系统/优化篇/2. 线程调度.md",
-    "00 Inbox/腾讯面经.md",
-    "面试准备/Java/0.刷题常用语法.md",
+    "面试准备/MySQL/4. 锁.md",
+    "面试准备/MySQL/3. 事务.md",
+    "面试准备/MySQL/2. 索引.md",
+    "面试准备/MySQL/1. 执行流程&数据存储.md",
+    "面试准备/MySQL/5. 日志.md",
+    "attachment/Pasted image 20240322155951.png",
+    "attachment/Pasted image 20240322155944.png",
+    "attachment/Pasted image 20240322155457.png",
+    "attachment/Pasted image 20240322155354.png",
+    "attachment/Pasted image 20240322155330.png",
+    "attachment/Pasted image 20240322155311.png",
+    "attachment/Pasted image 20240322152852.png",
+    "attachment/Pasted image 20240322151935.png",
+    "attachment/Pasted image 20240322150008.png",
+    "attachment/Pasted image 20240322145544.png",
     "面试准备/Java/1.八股文.md",
-    "面试准备/MySQL/1. 索引.md",
-    "面试准备/MySQL",
-    "面试准备/操作系统/RunableOS/2. 内核初始化.md",
+    "面试准备/Java/0.刷题常用语法.md",
+    "面试准备/计算机网络/1. HTTP.md",
+    "面试准备/计算机网络/2. TCP和UDP.md",
+    "00 Inbox/腾讯面经.md",
+    "面试准备/计算机网络/3. IP.md",
+    "00 Inbox/未命名2.md",
+    "00 Inbox/课程.md",
+    "SSM/Redis/三、原理.md",
+    "面试准备/计算机网络",
+    "面试准备/操作系统/Linux内核/2. 进程调度.md",
+    "面试准备/操作系统/Linux内核/1. 内存空间.md",
+    "面试准备/操作系统/优化篇/2. 线程调度.md",
+    "面试准备/操作系统/优化篇/1. 内存的高级优化.md",
     "面试准备/操作系统/RunableOS/9. 并发.md",
     "面试准备/操作系统/RunableOS/8. 进程与线程之间的通信.md",
     "面试准备/操作系统/RunableOS/7. 中断.md",
-    "面试准备/操作系统/RunableOS/4. 用户和内核切换 & 线程之间切换.md",
-    "面试准备/操作系统/RunableOS/5. 用户启动.md",
-    "面试准备/操作系统/RunableOS/3. 内存空间.md",
-    "Excalidraw/2. 内核初始化 2024-03-13 17.05.02.excalidraw.md",
     "面试准备/操作系统/RunableOS/6. 文件系统生成和使用.md",
-    "Excalidraw/6. 文件系统生成和使用 2024-03-14 11.22.57.excalidraw.md",
-    "Java/Java 基础/1. 基础语法.md",
+    "面试准备/操作系统/RunableOS/5. 用户启动.md",
+    "面试准备/操作系统/RunableOS/4. 用户和内核切换 & 线程之间切换.md",
+    "面试准备/操作系统/RunableOS/3. 内存空间.md",
+    "面试准备/操作系统/RunableOS",
+    "未命名",
+    "面试准备/操作系统/Linux内核",
+    "面试准备/MySQL",
     "Excalidraw",
     "面试准备/操作系统/优化篇",
-    "00 Inbox/课程.md",
     "面试准备/操作系统",
-    "SSM/Redis/三、原理.md",
-    "Java/JVM/0.JVM的理解.md",
-    "Java/JVM/2.类加载器.md",
-    "实际项目/个人博客/1.项目搭建.md",
-    "实际项目/个人博客/2.博客前台.md",
     "Java/JVM",
     "Java",
-    "SSM/Redis",
     "未命名.canvas"
   ]
 }
